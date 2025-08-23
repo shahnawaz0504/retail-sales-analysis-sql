@@ -1,4 +1,3 @@
-# retail-sales-analysis-sql
 # Retail Sales Data Analysis
 
 ## Overview

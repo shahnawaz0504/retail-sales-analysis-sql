@@ -35,8 +35,7 @@ The `sales` table contains the following columns:
 ```
 ├── README.md
 ├── retail_sales_analysis.sql    # Main analysis script
-└── data/
-    └── retail_sales/            # Database tables
+└── retail_sales            # Database tables
 ```
 
 ## Key Queries and Analysis
